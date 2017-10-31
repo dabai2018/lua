@@ -1,0 +1,13 @@
+appname="箱子"
+appver="1.0.0"
+appcode="1"
+appsdk="15"
+path_pattern=""
+packagename="com.xiangzi"
+theme="Theme_Material"
+developer=""
+description=""
+debugmode=true
+user_permission={
+  "WRITE_EXTERNAL_STORAGE"
+}
